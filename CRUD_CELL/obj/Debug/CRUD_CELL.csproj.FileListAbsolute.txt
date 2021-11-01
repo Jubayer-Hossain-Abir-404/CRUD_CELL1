@@ -28,3 +28,10 @@ C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\obj\Debug\CRUD_CELL.csproj.GenerateRe
 C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\obj\Debug\CRUD_CELL.csproj.CoreCompileInputs.cache
 C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\obj\Debug\CRUD_CELL.exe
 C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\obj\Debug\CRUD_CELL.pdb
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\bin\Debug\EPPlus.dll
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\bin\Debug\EPPlus.xml
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\obj\Debug\CRUD_CELL.csproj.ResolveComReference.cache
+C:\Visual Studio 2019\CRUD_CELL1\CRUD_CELL\obj\Debug\CRUD_CELL.csproj.CopyComplete
